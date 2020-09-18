@@ -4,8 +4,8 @@ I am a final year undergraduate student of Electronics and Communication Departm
 - 🔭 I’m currently the President of [CYBORG](http://cyborg.nitrkl.ac.in/) - The Official Robotics and Automation Club of NIT Rourkela
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Web Development, deep learning, data structures and algorithms.
 - 🤝 Open for collaborations in web development projects.
-- 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as a full time as a Software Developer.
+- 😊 Willing to contribute in open source development projects.
+- 👍 Looking for opportunities to join as a full time Software Developer.
 - 💬 Ask me about anything [here](https://github.com/bislara/bislara/issues)
 - 📫 How to reach me: <a style="color:#02ccff" href="mailto:biswajeetsahoo54@gmail.com">biswajeetsahoo54@gmail.com</a> 
 - 😄 Pronouns: He / Him
