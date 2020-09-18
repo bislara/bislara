@@ -1,5 +1,5 @@
-### Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> , i am Biswajeet! 
-I am a final year undergradaute student of Electronics and Communication Department of NIT Rourkela
+### Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> , I am Biswajeet! 
+I am a final year undergraduate student of Electronics and Communication Department of NIT Rourkela
 
 - 🔭 I’m currently the President of [CYBORG](http://cyborg.nitrkl.ac.in/) - The Official Robotics and Automation Club of NIT Rourkela
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Web Development, deep learning, data structures and algorithms.
