@@ -58,8 +58,8 @@ I am a final year undergraduate student of Electronics and Communication Departm
   <a href="https://github.com/bislara/Object-detection-GUI">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bislara&repo=Object-detection-GUI&theme=radical" />
   </a>
-  <a href="https://github.com/bislara/MOS-Simulator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bislara&repo=MOS-Simulator&theme=radical" />
+  <a href="https://github.com/bislara/code-n-stitch">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bislara&repo=code-n-stitch&theme=radical" />
   </a>
 </p>
 
