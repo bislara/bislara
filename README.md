@@ -47,7 +47,7 @@ I am a final year undergraduate student of Electronics and Communication Departm
 <br>
 <p align = "center">
   <a href="https://github.com/bislara">
-    <img src = "https://github-readme-stats.vercel.app/api?username=bislara&show_icons=true&theme=radical&line_height=27&include_all_commits=true">
+    <img src = "https://github-readme-stats.vercel.app/api?username=bislara&show_icons=true&theme=radical&line_height=27&include_all_commits=false">
   </a>
   <a href="https://github.com/bislara">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bislara&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8">
