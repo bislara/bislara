@@ -75,6 +75,7 @@ I am a final year undergraduate student of Electronics and Communication Departm
 ### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ---
