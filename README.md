@@ -70,4 +70,13 @@ I am a final year undergraduate student of Electronics and Communication Departm
 </div>
 
 
+---
+
+### :zap: Recent Activity 
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 
