@@ -76,8 +76,5 @@ I am a final year undergraduate student of Electronics and Communication Departm
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
----
 
 
