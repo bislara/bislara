@@ -75,14 +75,14 @@ I am a final year undergraduate student of Electronics and Communication Departm
 ### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/bislara/bislara/issues/3) in [bislara/bislara](https://github.com/bislara/bislara)
-2. 🗣 Commented on [#4](https://github.com/bislara/project-enigma/issues/4) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
-3. 🎉 Merged PR [#2](https://github.com/bislara/bislara/pull/2) in [bislara/bislara](https://github.com/bislara/bislara)
-4. 💪 Opened PR [#2](https://github.com/bislara/bislara/pull/2) in [bislara/bislara](https://github.com/bislara/bislara)
-5. 🗣 Commented on [#1](https://github.com/bislara/bislara/issues/1) in [bislara/bislara](https://github.com/bislara/bislara)
-6. ❗️ Opened issue [#1](https://github.com/bislara/bislara/issues/1) in [bislara/bislara](https://github.com/bislara/bislara)
-7. ❗️ Opened issue [#4](https://github.com/bislara/project-enigma/issues/4) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
-8. 🗣 Commented on [#208](https://github.com/pytorch/hub/issues/208) in [pytorch/hub](https://github.com/pytorch/hub)
+1. 🗣 Commented on [#3](https://github.com/bislara/bislara/issues/3) in [bislara/bislara](https://github.com/bislara/bislara)
+2. ❗️ Closed issue [#3](https://github.com/bislara/bislara/issues/3) in [bislara/bislara](https://github.com/bislara/bislara)
+3. ❗️ Opened issue [#3](https://github.com/bislara/bislara/issues/3) in [bislara/bislara](https://github.com/bislara/bislara)
+4. 🗣 Commented on [#4](https://github.com/bislara/project-enigma/issues/4) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
+5. 🎉 Merged PR [#2](https://github.com/bislara/bislara/pull/2) in [bislara/bislara](https://github.com/bislara/bislara)
+6. 💪 Opened PR [#2](https://github.com/bislara/bislara/pull/2) in [bislara/bislara](https://github.com/bislara/bislara)
+7. 🗣 Commented on [#1](https://github.com/bislara/bislara/issues/1) in [bislara/bislara](https://github.com/bislara/bislara)
+8. ❗️ Opened issue [#1](https://github.com/bislara/bislara/issues/1) in [bislara/bislara](https://github.com/bislara/bislara)
 <!--END_SECTION:activity-->
 
 
