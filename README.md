@@ -1,5 +1,11 @@
-## Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> , I am Biswajeet! 
+
+<h2 align = "center">
+Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> , I am Biswajeet! 
+</h2>
+<div align = "center">
 I am a final year undergraduate student of Electronics and Communication Department of NIT Rourkela
+</div>
+<br>
 
 - 🔭 I’m currently the President of [CYBORG](http://cyborg.nitrkl.ac.in/) - The Official Robotics and Automation Club of NIT Rourkela
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Web Development, deep learning, data structures and algorithms.
@@ -90,5 +96,10 @@ I am a final year undergraduate student of Electronics and Communication Departm
 8. ❗️ Opened issue [#1](https://github.com/bislara/bislara/issues/1) in [bislara/bislara](https://github.com/bislara/bislara)
 <!--END_SECTION:activity-->
 
+---
 
+<h3 align="center">Let your Smile brighten your day :smile:</h3>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=algolia" alt="Refresh again to view Jokes Card" />
+</p>
 
