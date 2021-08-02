@@ -16,10 +16,15 @@ I am a final year undergraduate student of Electronics and Communication Departm
 **🤝 <b>To connect with me</b></summary>**
 <p align = "center">
   
-  [<img src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/bislara) 
+<!--   [<img src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/bislara)  -->
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/biswajeet-sahoo-lara/)
   [<img src ="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bis_lara/)
   [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/biswajeet.sahoo.lara/) 
+  [<img src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Biswaje37764342/) 
+ <a href="mailto:biswajeetsahoo54@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+ <a href="https://api.whatsapp.com/send?phone=919778756623&text=Hi,%20Biswajeet" target="_blank"><img alt="WhatsApp"
+                src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <br/>
