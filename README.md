@@ -86,14 +86,14 @@ I am a final year undergraduate student of Electronics and Communication Departm
 ### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#149](https://github.com/Codesee-io/oss-port/pull/149) in [Codesee-io/oss-port](https://github.com/Codesee-io/oss-port)
-2. 🎉 Merged PR [#243](https://github.com/bislara/code-n-stitch/pull/243) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-3. 🗣 Commented on [#242](https://github.com/bislara/code-n-stitch/issues/242) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-4. 🎉 Merged PR [#242](https://github.com/bislara/code-n-stitch/pull/242) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-5. 🗣 Commented on [#9](https://github.com/bislara/project-enigma/issues/9) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
-6. ❗️ Opened issue [#9](https://github.com/bislara/project-enigma/issues/9) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
-7. 🎉 Merged PR [#8](https://github.com/bislara/project-enigma/pull/8) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
-8. 🗣 Commented on [#5](https://github.com/bislara/project-enigma/issues/5) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
+1. 🎉 Merged PR [#251](https://github.com/bislara/code-n-stitch/pull/251) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+2. 🎉 Merged PR [#250](https://github.com/bislara/code-n-stitch/pull/250) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+3. 🎉 Merged PR [#249](https://github.com/bislara/code-n-stitch/pull/249) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+4. 🎉 Merged PR [#248](https://github.com/bislara/code-n-stitch/pull/248) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+5. 🎉 Merged PR [#247](https://github.com/bislara/code-n-stitch/pull/247) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+6. 🎉 Merged PR [#246](https://github.com/bislara/code-n-stitch/pull/246) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+7. 🎉 Merged PR [#245](https://github.com/bislara/code-n-stitch/pull/245) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+8. 💪 Opened PR [#149](https://github.com/Codesee-io/oss-port/pull/149) in [Codesee-io/oss-port](https://github.com/Codesee-io/oss-port)
 <!--END_SECTION:activity-->
 
 ---
