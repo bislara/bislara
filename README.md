@@ -86,14 +86,14 @@ I am a final year undergraduate student of Electronics and Communication Departm
 ### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#254](https://github.com/bislara/code-n-stitch/issues/254) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-2. 🎉 Merged PR [#253](https://github.com/bislara/code-n-stitch/pull/253) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-3. 🗣 Commented on [#31](https://github.com/bislara/code-n-stitch/issues/31) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-4. 🎉 Merged PR [#31](https://github.com/bislara/code-n-stitch/pull/31) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-5. ❗️ Closed issue [#28](https://github.com/bislara/code-n-stitch/issues/28) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-6. 🗣 Commented on [#117](https://github.com/bislara/code-n-stitch/issues/117) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-7. ❗️ Opened issue [#10](https://github.com/bislara/project-enigma/issues/10) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
-8. ❗️ Opened issue [#252](https://github.com/bislara/code-n-stitch/issues/252) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+1. 🎉 Merged PR [#255](https://github.com/bislara/code-n-stitch/pull/255) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+2. ❗️ Closed issue [#117](https://github.com/bislara/code-n-stitch/issues/117) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+3. 🗣 Commented on [#83](https://github.com/bislara/code-n-stitch/issues/83) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+4. 🗣 Commented on [#10](https://github.com/bislara/project-enigma/issues/10) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
+5. 🗣 Commented on [#9](https://github.com/bislara/project-enigma/issues/9) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
+6. 🗣 Commented on [#10](https://github.com/bislara/project-enigma/issues/10) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
+7. ❗️ Opened issue [#254](https://github.com/bislara/code-n-stitch/issues/254) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+8. 🎉 Merged PR [#253](https://github.com/bislara/code-n-stitch/pull/253) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
 <!--END_SECTION:activity-->
 
 ---
