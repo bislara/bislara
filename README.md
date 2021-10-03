@@ -86,14 +86,14 @@ I am a final year undergraduate student of Electronics and Communication Departm
 ### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#257](https://github.com/bislara/code-n-stitch/issues/257) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-2. ❌ Closed PR [#11](https://github.com/bislara/project-enigma/pull/11) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
-3. 🎉 Merged PR [#13](https://github.com/bislara/project-enigma/pull/13) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
-4. 🗣 Commented on [#12](https://github.com/bislara/project-enigma/issues/12) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
-5. 🎉 Merged PR [#12](https://github.com/bislara/project-enigma/pull/12) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
-6. ❗️ Closed issue [#9](https://github.com/bislara/project-enigma/issues/9) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
-7. 🗣 Commented on [#10](https://github.com/bislara/project-enigma/issues/10) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
-8. 🗣 Commented on [#9](https://github.com/bislara/project-enigma/issues/9) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
+1. 🗣 Commented on [#225](https://github.com/bislara/code-n-stitch/issues/225) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+2. 🗣 Commented on [#14](https://github.com/bislara/project-enigma/issues/14) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
+3. 🗣 Commented on [#257](https://github.com/bislara/code-n-stitch/issues/257) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+4. ❌ Closed PR [#11](https://github.com/bislara/project-enigma/pull/11) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
+5. 🎉 Merged PR [#13](https://github.com/bislara/project-enigma/pull/13) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
+6. 🗣 Commented on [#12](https://github.com/bislara/project-enigma/issues/12) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
+7. 🎉 Merged PR [#12](https://github.com/bislara/project-enigma/pull/12) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
+8. ❗️ Closed issue [#9](https://github.com/bislara/project-enigma/issues/9) in [bislara/project-enigma](https://github.com/bislara/project-enigma)
 <!--END_SECTION:activity-->
 
 ---
