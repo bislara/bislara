@@ -86,14 +86,14 @@ I am a final year undergraduate student of Electronics and Communication Departm
 ### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#276](https://github.com/bislara/code-n-stitch/issues/276) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-2. 🗣 Commented on [#276](https://github.com/bislara/code-n-stitch/issues/276) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-3. 🎉 Merged PR [#282](https://github.com/bislara/code-n-stitch/pull/282) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-4. 🗣 Commented on [#280](https://github.com/bislara/code-n-stitch/issues/280) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-5. ❗️ Closed issue [#187](https://github.com/bislara/code-n-stitch/issues/187) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-6. 🎉 Merged PR [#280](https://github.com/bislara/code-n-stitch/pull/280) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-7. 🗣 Commented on [#224](https://github.com/bislara/code-n-stitch/issues/224) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-8. 🗣 Commented on [#277](https://github.com/bislara/code-n-stitch/issues/277) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+1. 🗣 Commented on [#283](https://github.com/bislara/code-n-stitch/issues/283) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+2. ❌ Closed PR [#276](https://github.com/bislara/code-n-stitch/pull/276) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+3. 🎉 Merged PR [#287](https://github.com/bislara/code-n-stitch/pull/287) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+4. 🗣 Commented on [#285](https://github.com/bislara/code-n-stitch/issues/285) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+5. 🎉 Merged PR [#285](https://github.com/bislara/code-n-stitch/pull/285) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+6. 🎉 Merged PR [#286](https://github.com/bislara/code-n-stitch/pull/286) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+7. 🗣 Commented on [#281](https://github.com/bislara/code-n-stitch/issues/281) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+8. 🎉 Merged PR [#281](https://github.com/bislara/code-n-stitch/pull/281) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
 <!--END_SECTION:activity-->
 
 ---
