@@ -86,14 +86,14 @@ I am a final year undergraduate student of Electronics and Communication Departm
 ### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/lara-sahoo/js-beginner-projects/pull/5) in [lara-sahoo/js-beginner-projects](https://github.com/lara-sahoo/js-beginner-projects)
-2. 💪 Opened PR [#4](https://github.com/lara-sahoo/js-beginner-projects/pull/4) in [lara-sahoo/js-beginner-projects](https://github.com/lara-sahoo/js-beginner-projects)
-3. 💪 Opened PR [#3](https://github.com/lara-sahoo/js-beginner-projects/pull/3) in [lara-sahoo/js-beginner-projects](https://github.com/lara-sahoo/js-beginner-projects)
-4. 💪 Opened PR [#2](https://github.com/lara-sahoo/js-beginner-projects/pull/2) in [lara-sahoo/js-beginner-projects](https://github.com/lara-sahoo/js-beginner-projects)
-5. 💪 Opened PR [#1](https://github.com/lara-sahoo/js-beginner-projects/pull/1) in [lara-sahoo/js-beginner-projects](https://github.com/lara-sahoo/js-beginner-projects)
-6. 🗣 Commented on [#321](https://github.com/bislara/code-n-stitch/issues/321) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-7. 🎉 Merged PR [#321](https://github.com/bislara/code-n-stitch/pull/321) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
-8. ❗️ Closed issue [#315](https://github.com/bislara/code-n-stitch/issues/315) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+1. 🎉 Merged PR [#325](https://github.com/bislara/code-n-stitch/pull/325) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+2. 🗣 Commented on [#322](https://github.com/bislara/code-n-stitch/issues/322) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+3. 🎉 Merged PR [#322](https://github.com/bislara/code-n-stitch/pull/322) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+4. ❗️ Closed issue [#318](https://github.com/bislara/code-n-stitch/issues/318) in [bislara/code-n-stitch](https://github.com/bislara/code-n-stitch)
+5. 💪 Opened PR [#5](https://github.com/lara-sahoo/js-beginner-projects/pull/5) in [lara-sahoo/js-beginner-projects](https://github.com/lara-sahoo/js-beginner-projects)
+6. 💪 Opened PR [#4](https://github.com/lara-sahoo/js-beginner-projects/pull/4) in [lara-sahoo/js-beginner-projects](https://github.com/lara-sahoo/js-beginner-projects)
+7. 💪 Opened PR [#3](https://github.com/lara-sahoo/js-beginner-projects/pull/3) in [lara-sahoo/js-beginner-projects](https://github.com/lara-sahoo/js-beginner-projects)
+8. 💪 Opened PR [#2](https://github.com/lara-sahoo/js-beginner-projects/pull/2) in [lara-sahoo/js-beginner-projects](https://github.com/lara-sahoo/js-beginner-projects)
 <!--END_SECTION:activity-->
 
 ---
