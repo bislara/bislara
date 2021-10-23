@@ -65,7 +65,7 @@ I am a final year undergraduate student of Electronics and Communication Departm
   </a>
 </p>
 
-<p align = "center">
+<!-- <p align = "center">
   <a href="https://github.com/bislara/Object-detection-GUI">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bislara&repo=Object-detection-GUI&theme=radical" />
   </a>
@@ -73,13 +73,14 @@ I am a final year undergraduate student of Electronics and Communication Departm
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bislara&repo=code-n-stitch&theme=radical" />
   </a>
 </p>
+ -->
 
-<div align="center">
+<!-- <div align="center">
  
  ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
+ -->
 
 ---
 
